@@ -1,4 +1,4 @@
-# 🪙 RoaeToken (Root Of All Evil)
+# RoaeToken (Root Of All Evil)
 
 > *"The love of money is the root of all evil."*
 
@@ -33,7 +33,7 @@ Dự án được chia làm 2 phiên bản để so sánh và đối chiếu:
 
 ---
 
-## 🛠️ Tính năng Kỹ thuật (Technical Highlights)
+## Tính năng Kỹ thuật (Technical Highlights)
 
 | Tính năng | Phiên bản Basic | Phiên bản Super (Pro) |
 | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ Dự án này tương thích với **Remix IDE** và **Hardhat**.
 
 ---
 
-## 👨‍💻 Tác giả
+## Tác giả
 
 **SyerexX** - *Web3 Security Researcher & Smart Contract Developer*
 
