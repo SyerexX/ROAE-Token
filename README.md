@@ -53,7 +53,7 @@ Dự án này tương thích với **Remix IDE** và **Hardhat**.
 
 ### Cách 1: Dùng Remix IDE (Nhanh nhất)
 1.  Truy cập [Remix Ethereum](https://remix.ethereum.org).
-2.  Tạo file mới và copy code từ `RoaeToken_Basic.sol` hoặc `SuperRoaeToken.sol`.
+2.  Tạo file mới và copy code từ `Roae-Basic.sol` hoặc `Roae-Pro.sol`.
 3.  Compile với phiên bản `Solidity ^0.8.0`.
 4.  Tại tab Deploy:
     * Chọn **Injected Provider - MetaMask** (nếu muốn test trên Sepolia).
